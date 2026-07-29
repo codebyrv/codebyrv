@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,php,html,css,js,bootstrap,mysql,git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=python,django,php,html,css,js,bootstrap,mysql,git,github,vscode,postman" />
 
 </div>
 
