@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rijo+Varghese+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;MCA+Graduate+%F0%9F%8E%93;Django+Full+Stack+Developer;Always+Learning+New+Things+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rijo+Varghese+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Django+Full+Stack+Developer;Always+Learning+New+Things+%F0%9F%9A%80" />
 
 # 👋 Hi, I'm Rijo Varghese
 
-### 🐍 Python Developer | 🎓 MCA Graduate | 🚀 Building Cool Stuff
+### 🐍 Python Developer | 🎓 MCA Student | 🚀 Building Cool Stuff
 
 *"Productivity without progress is just existence."* — **Rv**
 
@@ -134,15 +134,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codebyrv&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # ⚡ Quote
 
