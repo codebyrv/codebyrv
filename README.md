@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rijo+Varghese+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Django+Full+Stack+Developer;Always+Learning+New+Things+%F0%9F%9A%80" />
 
-# 👋 Hi, I'm Rijo Varghese
+
 
 ### 🐍 Python Developer | 🎓 MCA Student | 🚀 Building Cool Stuff
 
@@ -16,7 +16,7 @@
 
 - 🎓 MCA Graduate
 - 🐍 Python & Django Developer
-- 🌱 Currently learning React & Docker
+- 🌱 Currently Improving
 - 💼 Freelancer
 - 🎸 Guitarist
 - 💡 Passionate about Web Development & Problem Solving
