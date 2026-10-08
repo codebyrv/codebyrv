@@ -12,6 +12,11 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=codebyrv&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views"/> </p>
 
+<br>
+
+"Productivity without progress is just existence."
+— Rv
+
 </div>
 
 👨‍💻 About Me
@@ -79,73 +84,84 @@ Git • GitHub • VS Code • Postman
 
 <div align="center">
 
-<a href="https://matrixwweindia.com/"> <img src="https://img.shields.io/badge/🌐%20Live%20Website-2196F3?style=for-the-badge" alt="Live Website"/> </a>
+<a href="https://matrixwweindia.com/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-2196F3?style=for-the-badge" alt="Live Website"/> </a>
 
 </div>
 
-Tech Stack
+🛠️ Tech Stack
 
 Django MySQL HTML CSS JavaScript
 
+📌 About
+
 A web-based logistics tracking system designed for managing and tracking international shipments efficiently.
 
-Key Features
-
-📦 Shipment management
-🔎 Shipment tracking
-🗄️ Database-driven operations
-🌐 Responsive web interface
-⚡ Dynamic functionality
-📊 Structured shipment information
+✨ Key Features
+📦 Shipment Management
+🔎 Shipment Tracking
+🗄️ Database-Driven Operations
+🌐 Responsive Web Interface
+⚡ Dynamic Functionality
+📊 Structured Shipment Information
 🚚 Commercial Logistics Tracking System
 
 <div align="center">
 
-<a href="https://matrixwwe.com/"> <img src="https://img.shields.io/badge/🌐%20Live%20Website-2196F3?style=for-the-badge" alt="Live Website"/> </a>
+<a href="https://matrixwwe.com/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-2196F3?style=for-the-badge" alt="Live Website"/> </a>
 
 </div>
 
-Tech Stack
+🛠️ Tech Stack
 
 PHP MySQL HTML CSS JavaScript AJAX
 
+📌 About
+
 A commercial logistics tracking platform focused on shipment management and tracking.
 
-Key Features
-
-🚚 Shipment tracking
-📦 Shipment management
-🔄 AJAX-based interactions
-🗄️ MySQL database integration
-🌐 Web-based interface
-⚡ Dynamic data handling
+✨ Key Features
+🚚 Shipment Tracking
+📦 Shipment Management
+🔄 AJAX-Based Interactions
+🗄️ MySQL Database Integration
+🌐 Web-Based Interface
+⚡ Dynamic Data Handling
 🛒 E-Commerce Website
 
 <div align="center">
 
-<a href="https://jdsenterprisesbangalore.com/"> <img src="https://img.shields.io/badge/🌐%20Live%20Website-2196F3?style=for-the-badge" alt="Live Website"/> </a>
+<a href="https://jdsenterprisesbangalore.com/"> <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-2196F3?style=for-the-badge" alt="Live Website"/> </a>
 
 </div>
 
-Tech Stack
+🛠️ Tech Stack
 
 Django MySQL HTML CSS JavaScript
 
+📌 About
+
 An e-commerce web application featuring product management and online ordering functionality.
 
-Key Features
-
-🛍️ Product management
-🛒 Online ordering
-🗄️ Database integration
-🌐 Web-based storefront
-⚡ Dynamic functionality
-📦 Product-based workflows
+✨ Key Features
+🛍️ Product Management
+🛒 Online Ordering
+🗄️ Database Integration
+🌐 Web-Based Storefront
+⚡ Dynamic Functionality
+📦 Product-Based Workflows
 💻 My Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,php,html,css,js,bootstrap,mysql,git,github,vscode,postman" alt="My Technologies"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-Developer-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
@@ -167,13 +183,30 @@ Key Features
 
 <div align="center">
 
-🐍 Advanced Python
-🌐 Django Development
-🔌 REST API Development
-🗄️ Database Design
-🧠 Data Structures & Algorithms
-💻 Backend Development
-🚀 Real-World Applications
+🚀 Area	🎯 Focus
+🐍 Python	Advanced Python
+🌐 Django	Web Application Development
+🔌 REST APIs	API Development
+🗄️ Database	Database Design
+🧠 DSA	Problem Solving
+💻 Backend	Scalable Applications
+🚀 Projects	Real-World Applications
+
+</div>
+
+🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/codebyrv"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+<a href="https://linkedin.com/in/rijo-varghese225"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+
+<a href="https://instagram.com/rijo_varghese"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+
+<a href="https://youtube.com/@Rijo_here"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a>
+
+<a href="mailto:rijovarghese225@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
 
 </div>
 
@@ -193,7 +226,7 @@ Code. Learn. Build. Repeat. 🚀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2196F3&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2196F3&height=140&section=footer" width="100%"/>
 
 ⭐ Thanks for visiting my profile!
 
