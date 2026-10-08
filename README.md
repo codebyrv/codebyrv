@@ -163,19 +163,6 @@ Key Features
 
 </div>
 
-📚 Currently Learning
-
-<div align="center">
-
-🧠 Technology	🎯 Focus
-🐍 Python	Advanced Python
-🌐 Django	Advanced Web Development
-🔌 Django REST Framework	REST API Development
-🗄️ MySQL	Database Design
-🧠 DSA	Problem Solving
-
-</div>
-
 🎯 Current Focus
 
 <div align="center">
@@ -187,46 +174,6 @@ Key Features
 🧠 Data Structures & Algorithms
 💻 Backend Development
 🚀 Real-World Applications
-
-</div>
-
-🧠 Developer Mindset
-
-<div align="center">
-
-Learn → Build → Improve → Repeat
-
-<br>
-
-💡 Learn something new
-
-↓
-
-💻 Build something practical
-
-↓
-
-🚀 Improve the solution
-
-↓
-
-🔁 Repeat
-
-</div>
-
-🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/codebyrv"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
-
-<a href="https://linkedin.com/in/rijo-varghese225"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-
-<a href="https://instagram.com/rijo_varghese"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
-
-<a href="https://youtube.com/@Rijo_here"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a>
-
-<a href="mailto:rijovarghese225@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
 
 </div>
 
