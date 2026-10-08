@@ -1,215 +1,262 @@
-Absolutely — I’d clean up the spacing, section hierarchy, alignment, badges, and project presentation while keeping your existing content and links.
+<div align="center">
 
-Clean GitHub Profile README
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:6C63FF&height=200&section=header&text=Rijo%20Varghese&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-\<div align="center"\>
+<h2>👋 Hi, I'm Rijo Varghese</h2>
 
-# 👋 Hi, I'm Rijo Varghese
+<h3>🐍 Python Developer • 🚀 Django Developer • 🎓 MCA Student</h3>
 
-### 🐍 Python Developer • 🚀 Django Developer • 🎓 MCA Student
+<p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Python+Developer+%F0%9F%90%8D;Django+Developer+%F0%9F%9A%80;Backend+%26+Full-Stack+Developer+%F0%9F%92%BB;REST+API+Developer+%F0%9F%94%8C;MCA+Student+%F0%9F%8E%93;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" /> </p>
 
-\<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Django+Developer+%F0%9F%9A%80;Backend+%26+Full-Stack+Developer+%F0%9F%92%BB;MCA+Student+%F0%9F%8E%93;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" /\>
+<p> <a href="https://github.com/codebyrv"> <img src="https://img.shields.io/badge/GitHub-codebyrv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://linkedin.com/in/rijo-varghese225"> <img src="https://img.shields.io/badge/LinkedIn-Rijo%20Varghese-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/rijovarghese"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://youtube.com/@Rijohere"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> </p>
 
-\<p\> \<a href="https://github.com/codebyrv"\> \<img src="https://img.shields.io/badge/GitHub-codebyrv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/\> \</a\> \<a href="https://linkedin.com/in/rijo-varghese225"\> \<img src="https://img.shields.io/badge/LinkedIn-Rijo%20Varghese-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/\> \</a\> \<a href="https://instagram.com/rijo_varghese"\> \<img src="https://img.shields.io/badge/Instagram-rijo_varghese-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/\> \</a\> \<a href="https://youtube.com/@Rijo_here"\> \<img src="https://img.shields.io/badge/YouTube-Rijo_\_here-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/\> \</a\> \</p\>
+<p> <img src="https://komarev.com/ghpvc/?username=codebyrv&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views"/> </p>
 
-> **"Productivity without progress is just existence."** — Rv
+</div>
 
-\</div\>
+👨‍💻 About Me
 
----
+I'm Rijo Varghese, an MCA student and Python/Django developer passionate about building practical, scalable, and user-friendly web applications.
 
-## 👨‍💻 About Me
+I enjoy turning ideas into real-world applications and continuously improving my skills in backend development, REST APIs, databases, and problem solving.
 
-I'm **Rijo Varghese**, an MCA student and **Python/Django developer** interested in building practical, scalable, and user-friendly web applications.
+🎓 Currently pursuing MCA
+🐍 Developing applications with Python & Django
+🔌 Building REST APIs with Django REST Framework
+💻 Interested in Backend & Full-Stack Development
+🗄️ Working with MySQL
+🚀 Building real-world web applications
+🧠 Improving Data Structures & Algorithms
+🎸 Guitarist
+🌱 Always learning and experimenting
+💡 Passionate about Web Development & Problem Solving
+🛠️ Tech Stack
 
-- 🎓 Currently pursuing **MCA**
-- 🐍 Developing applications with **Python & Django**
-- 🔌 Working with **Django REST Framework**
-- 💻 Interested in **Backend & Full-Stack Development**
-- 🗄️ Working with **MySQL**
-- 🚀 Building **real-world web applications**
-- 🧠 Improving my **Data Structures & Algorithms** skills
-- 🎸 Guitarist
-- 🌱 Always learning and experimenting with new technologies
-- 💡 Passionate about **Web Development & Problem Solving**
+<div align="center">
 
----
+🐍 Backend
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,django,php" alt="Backend Technologies"/>
 
-### 🐍 Backend
+<br>
 
-\<p\> \<img src="https://skillicons.dev/icons?i=python,django,php" alt="Backend technologies"/\> \</p\>
+Python Django Django REST Framework PHP
 
-**Python • Django • Django REST Framework • PHP**
+<br><br>
 
-### 🎨 Frontend
+🎨 Frontend
 
-\<p\> \<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend technologies"/\> \</p\>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Technologies"/>
 
-**HTML5 • CSS3 • JavaScript • Bootstrap • AJAX**
+<br>
 
-### 🗄️ Database
+HTML5 CSS3 JavaScript Bootstrap AJAX
 
-\<p\> \<img src="https://skillicons.dev/icons?i=mysql" alt="Database technologies"/\> \</p\>
+<br><br>
 
-**MySQL**
+🗄️ Database
 
-### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies"/>
 
-\<p\> \<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/\> \</p\>
+<br>
 
-**Git • GitHub • VS Code • Postman**
+MySQL
 
----
+<br><br>
 
-## 🚀 Live Projects
+🔧 Tools & Platforms
 
-### 🌍 International Logistics Tracking System
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools"/>
 
-🔗 **Live:** https://matrixwweindia.com/
+<br>
 
-**Technologies:**\
-`Django` `MySQL` `HTML` `CSS` `JavaScript`
+Git GitHub VS Code Postman
+
+</div>
+
+🚀 Featured Projects
+🌍 International Logistics Tracking System
+
+<div align="center">
+
+<a href="https://matrixwweindia.com/"> <img src="https://img.shields.io/badge/🌐%20Live%20Website-2196F3?style=for-the-badge" alt="Live Website"/> </a>
+
+</div>
+
+Tech Stack
+
+Django MySQL HTML CSS JavaScript
 
 A web-based logistics tracking system designed for managing and tracking international shipments efficiently.
 
-**Highlights:**
+Key Features
 
-- 📦 Shipment management
-- 🔎 Shipment tracking
-- 🗄️ Database-driven operations
-- 🌐 Web-based interface
-- ⚡ Dynamic functionality
+📦 Shipment management
+🔎 Shipment tracking
+🗄️ Database-driven operations
+🌐 Responsive web interface
+⚡ Dynamic functionality
+📊 Structured shipment information
+🚚 Commercial Logistics Tracking System
 
----
+<div align="center">
 
-### 🚚 Commercial Logistics Tracking System
+<a href="https://matrixwwe.com/"> <img src="https://img.shields.io/badge/🌐%20Live%20Website-2196F3?style=for-the-badge" alt="Live Website"/> </a>
 
-🔗 **Live:** https://matrixwwe.com/
+</div>
 
-**Technologies:**\
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `AJAX`
+Tech Stack
+
+PHP MySQL HTML CSS JavaScript AJAX
 
 A commercial logistics tracking platform focused on shipment management and tracking.
 
-**Highlights:**
+Key Features
 
-- 🚚 Shipment tracking
-- 📦 Shipment management
-- 🔄 AJAX-based interactions
-- 🗄️ MySQL database integration
-- 🌐 Web-based interface
+🚚 Shipment tracking
+📦 Shipment management
+🔄 AJAX-based interactions
+🗄️ MySQL database integration
+🌐 Web-based interface
+⚡ Dynamic data handling
+🛒 E-Commerce Website
 
----
+<div align="center">
 
-### 🛒 E-Commerce Website
+<a href="https://jdsenterprisesbangalore.com/"> <img src="https://img.shields.io/badge/🌐%20Live%20Website-2196F3?style=for-the-badge" alt="Live Website"/> </a>
 
-🔗 **Live:** https://jdsenterprisesbangalore.com/
+</div>
 
-**Technologies:**\
-`Django` `MySQL` `HTML` `CSS` `JavaScript`
+Tech Stack
+
+Django MySQL HTML CSS JavaScript
 
 An e-commerce web application featuring product management and online ordering functionality.
 
-**Highlights:**
+Key Features
 
-- 🛍️ Product management
-- 🛒 Online ordering
-- 🗄️ Database integration
-- 🌐 Web-based storefront
-- ⚡ Dynamic functionality
+🛍️ Product management
+🛒 Online ordering
+🗄️ Database integration
+🌐 Web-based storefront
+⚡ Dynamic functionality
+📦 Product-based workflows
+💻 My Technologies
 
----
+<div align="center">
 
-## 💻 Technologies
+<img src="https://skillicons.dev/icons?i=python,django,php,html,css,js,bootstrap,mysql,git,github,vscode,postman" alt="My Technologies"/>
 
-\<div align="center"\>
+</div>
 
-\<img src="https://skillicons.dev/icons?i=python,django,php,html,css,js,bootstrap,mysql,git,github,vscode,postman" alt="My Tech Stack"/\>
+📊 GitHub Statistics
 
-\</div\>
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=codebyrv&showicons=true&theme=tokyonight&hideborder=true&includeallcommits=true&count_private=true" alt="Rijo's GitHub Stats"/>
 
-## 📊 GitHub Statistics
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyrv&layout=compact&theme=tokyonight&hideborder=true&langscount=8" alt="Top Languages"/>
 
-\<div align="center"\>
+</div>
 
-\<img height="180" src="https://github-readme-stats.vercel.app/api?username=codebyrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count\_private=true" alt="Rijo's GitHub Statistics"/\>
+<br>
 
-\<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyrv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Rijo's Top Languages"/\>
+<div align="center">
 
-\</div\>
+<img src="https://streak-stats.demolab.com?user=codebyrv&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
----
+</div>
 
-## 📚 Currently Learning
+📈 GitHub Activity
 
-\<div align="center"\>
+<div align="center">
 
-🐍 **Python** &nbsp; • &nbsp; 🌐 **Django** &nbsp; • &nbsp; 🔌 **Django REST Framework** &nbsp; • &nbsp; 🗄️ **MySQL** &nbsp; • &nbsp; 🧠 **Data Structures & Algorithms**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyrv&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
-\</div\>
+</div>
 
----
+📚 Currently Learning
 
-## 🎯 Current Focus
+<div align="center">
 
-- 🐍 Advanced Python
-- 🌐 Django Development
-- 🔌 REST API Development
-- 🗄️ Database Design
-- 🧠 Data Structures & Algorithms
-- 💻 Backend Development
-- 🚀 Building Real-World Applications
+🧠 Technology	🎯 Focus
+🐍 Python	Advanced Python
+🌐 Django	Advanced Web Development
+🔌 Django REST Framework	REST API Development
+🗄️ MySQL	Database Design
+🧠 DSA	Problem Solving
 
----
+</div>
 
-## 🌐 Connect With Me
+🎯 Current Focus
 
-\<div align="center"\>
+<div align="center">
 
-\<a href="https://linkedin.com/in/rijo-varghese225"\> \<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/\> \</a\>
+🐍 Advanced Python
+🌐 Django Development
+🔌 REST API Development
+🗄️ Database Design
+🧠 Data Structures & Algorithms
+💻 Backend Development
+🚀 Real-World Applications
 
-\<a href="https://instagram.com/rijo\_varghese"\> \<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/\> \</a\>
+</div>
 
-\<a href="https://youtube.com/@Rijo\_here"\> \<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/\> \</a\>
+🧠 Developer Mindset
 
-\<a href="mailto:rijovarghese225@gmail.com"\> \<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/\> \</a\>
+<div align="center">
 
-\</div\>
+Learn → Build → Improve → Repeat
 
----
+<br>
 
-## ⚡ Developer Philosophy
+💡 Learn something new
+&nbsp;&nbsp;↓
+💻 Build something practical
+&nbsp;&nbsp;↓
+🚀 Improve the solution
+&nbsp;&nbsp;↓
+🔁 Repeat
 
-\<div align="center"\>
+</div>
 
-### Code. Learn. Build. Repeat. 🚀
+🌐 Connect With Me
 
-\</div\>
+<div align="center">
 
----
+<a href="https://github.com/codebyrv"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
 
-## 👀 Profile Views
+<a href="https://linkedin.com/in/rijo-varghese225"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
 
-\<div align="center"\>
+<a href="https://instagram.com/rijo_varghese"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
 
-\<img src="https://komarev.com/ghpvc/?username=codebyrv&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views"/\>
+<a href="https://youtube.com/@Rijo_here"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a>
 
-\</div\>
+<a href="mailto:rijovarghese225@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
 
----
+</div>
 
-\<div align="center"\>
+⚡ Developer Philosophy
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
+
+Code. Learn. Build. Repeat. 🚀
+
+<br>
+
+"Productivity without progress is just existence."
+— Rv
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2196F3&height=120&section=footer" width="100%"/>
+
+⭐ Thanks for visiting my profile!
 
 If you like my work, feel free to ⭐ my repositories.
 
-### Let's build something great together! 🚀
+🚀 Let's build something great together!
 
-\</div\>
-
-This version keeps your original information but gives it a much cleaner **GitHub-profile structure**, consistent spacing, clearer project sections, and better visual hierarchy.
+</div>
