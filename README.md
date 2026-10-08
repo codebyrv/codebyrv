@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:6C63FF&height=200&section=header&text=Rijo%20Varghese&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:6C63FF&height=200&section=header&text=Rijo%20Varghese&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <h2>👋 Hi, I'm Rijo Varghese</h2>
 
 <h3>🐍 Python Developer • 🚀 Django Developer • 🎓 MCA Student</h3>
 
-<p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Python+Developer+%F0%9F%90%8D;Django+Developer+%F0%9F%9A%80;Backend+%26+Full-Stack+Developer+%F0%9F%92%BB;REST+API+Developer+%F0%9F%94%8C;MCA+Student+%F0%9F%8E%93;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" /> </p>
+<p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Python+Developer+%F0%9F%90%8D;Django+Developer+%F0%9F%9A%80;Backend+%26+Full-Stack+Developer+%F0%9F%92%BB;REST+API+Developer+%F0%9F%94%8C;MCA+Student+%F0%9F%8E%93;Always+Learning+%F0%9F%92%A1" alt="Typing SVG"/> </p>
 
 <p> <a href="https://github.com/codebyrv"> <img src="https://img.shields.io/badge/GitHub-codebyrv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://linkedin.com/in/rijo-varghese225"> <img src="https://img.shields.io/badge/LinkedIn-Rijo%20Varghese-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/rijovarghese"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://youtube.com/@Rijohere"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> </p>
 
@@ -40,7 +40,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 <br>
 
-Python Django Django REST Framework PHP
+Python • Django • Django REST Framework • PHP
 
 <br><br>
 
@@ -50,7 +50,7 @@ Python Django Django REST Framework PHP
 
 <br>
 
-HTML5 CSS3 JavaScript Bootstrap AJAX
+HTML5 • CSS3 • JavaScript • Bootstrap • AJAX
 
 <br><br>
 
@@ -70,7 +70,7 @@ MySQL
 
 <br>
 
-Git GitHub VS Code Postman
+Git • GitHub • VS Code • Postman
 
 </div>
 
@@ -157,21 +157,9 @@ Key Features
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyrv&layout=compact&theme=tokyonight&hideborder=true&langscount=8" alt="Top Languages"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=codebyrv&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyrv&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -211,11 +199,17 @@ Learn → Build → Improve → Repeat
 <br>
 
 💡 Learn something new
-&nbsp;&nbsp;↓
+
+↓
+
 💻 Build something practical
-&nbsp;&nbsp;↓
+
+↓
+
 🚀 Improve the solution
-&nbsp;&nbsp;↓
+
+↓
+
 🔁 Repeat
 
 </div>
@@ -245,6 +239,7 @@ Code. Learn. Build. Repeat. 🚀
 <br>
 
 "Productivity without progress is just existence."
+
 — Rv
 
 </div>
